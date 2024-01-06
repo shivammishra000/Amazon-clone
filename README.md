@@ -1,1 +1,1 @@
-Complete Amazon Clone
+Complete Amazon Clone.
