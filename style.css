@@ -24,6 +24,7 @@
 .border {
     border: 2px solid transparent;
 }
+
 .border:hover {
     border: 2px solid white;
 }
@@ -139,7 +140,6 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-
 }
 
 .hero-msg {
